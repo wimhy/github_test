@@ -2,5 +2,7 @@
 
 void	main(void)
 {
+	for(;;) {
 
+	}
 }
